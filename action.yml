@@ -2,8 +2,8 @@ name: 'Hello World'
 description: 'Greet someone and record the time'
 inputs: # input parameteres are stored as environment variables
   who-to-greet: # id of input
-  description: 'who to greet'
-  default: 'World'
+    description: 'who to greet'
+    default: 'World'
 
 outputs:
   time: # id of output
